@@ -78,7 +78,6 @@ summary.lm(simp)
 Chest
 Adjusted R-Squared: 0.9262 RSE: 33.08 
 
-
 Neck
 Adjusted R-squared: 0.87 RSE: 43.91
 
@@ -91,9 +90,6 @@ adjusted R-squared: 0.69 RSE: 67.81
 Headwth
 Adjusted R-squared: 0.6064 RSE: 74.41 
 
-
-
-
-
-
+Age
+Adjusted R-sqaure: 0.5526 RSE: 81.47
 
